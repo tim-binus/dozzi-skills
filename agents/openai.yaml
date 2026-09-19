@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOZZI Photography"
+  short_description: "DOZZI imagery with accurate product details and consistent style"
+  default_prompt: "Use $dozzi-photography to plan or edit DOZZI images using the supplied product, model, and brand references."

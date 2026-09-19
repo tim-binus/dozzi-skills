@@ -1,0 +1,324 @@
+[
+  {
+    "path": "references/images/product-detail/01_杏色_柔软面料近景.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/01_杏色_柔软面料近景.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "0416a4fc1f2483022afb94c8a6945cd32280a07fd9b1eb4c3dfad80126f6d926"
+  },
+  {
+    "path": "references/images/product-detail/01_杏色女模特服帖参考.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/01_杏色女模特服帖参考.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "98d2bae91a47cdd2114cb050ee8df81655da61dc9f19c0b6b4e04019f3321bfc"
+  },
+  {
+    "path": "references/images/product-detail/02_深灰男模特服帖参考.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/02_深灰男模特服帖参考.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "f2adced5293936853d6fac49775a8e193d864e91d1f381836df213a16584c3e6"
+  },
+  {
+    "path": "references/images/product-detail/04_杏色_正确后带展开.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/04_杏色_正确后带展开.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "3b86e4e846473d56f3761aca178f7afdac5a72aac5434e4efdafeefc9f5c2303"
+  },
+  {
+    "path": "references/images/product-detail/产品杏色.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/产品杏色.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "98ed24979dfd728a0287c82afeeae374104eda3b8177a53cf866c2d5dc529291"
+  },
+  {
+    "path": "references/images/product-detail/产品黑色.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/产品黑色.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "1e69b57e2c5bc9068e8faf8035e938d2765607392d72a927f5f2faf3474074c9"
+  },
+  {
+    "path": "references/images/product-detail/杏色.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/杏色.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "303bc3ca84dfe770c4a5ff915b0dd9d8c1fe1f1dbf63b199bc5d8cdbd353bd9d"
+  },
+  {
+    "path": "references/images/product-detail/杏色平.jpeg",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/杏色平.jpeg",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "949a2b89ffdccdaafcf7037dbb0565e11c58557ab4ad93038668a61dbee22fd1"
+  },
+  {
+    "path": "references/images/product-detail/黑色.png",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/黑色.png",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "7de0c18651afa04d44c11377ebaef922704f79c31b9e9f8d2a3ad3a9ccbe08d7"
+  },
+  {
+    "path": "references/images/product-detail/黑色平.jpeg",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/Product-img/黑色平.jpeg",
+    "role": "product-detail",
+    "use": "User-supplied product/fit reference; inspect against supplier construction. Not proof of photographic provenance.",
+    "sha256": "72ca0ea76a4c8f1c130079babb8e95d39f5556253176ba99d08bafabcf9c32ff"
+  },
+  {
+    "path": "references/images/pdp-gallery/1.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/hero-pdp webp/1.webp",
+    "role": "pdp-gallery",
+    "use": "Selected gallery style/pose reference; user requested nose and logo corrections, so not sole anatomy authority.",
+    "sha256": "c53b5359a6139a3429fbe6dcdb5accf2d11025fa2f4f2c4c5b89f3afe2a98e81"
+  },
+  {
+    "path": "references/images/pdp-gallery/2.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/hero-pdp webp/2.webp",
+    "role": "pdp-gallery",
+    "use": "Selected gallery style/pose reference; user requested nose and logo corrections, so not sole anatomy authority.",
+    "sha256": "9c8bb2629f8e27dc76291b0c74b341ffd1ad64361527def11da397443199d137"
+  },
+  {
+    "path": "references/images/pdp-gallery/3.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/hero-pdp webp/3.webp",
+    "role": "pdp-gallery",
+    "use": "Selected gallery style/pose reference; user requested nose and logo corrections, so not sole anatomy authority.",
+    "sha256": "1da5cab12bc32e6eb71fe833f926865c2f7c7eaf0a845074c60e66b78a17afef"
+  },
+  {
+    "path": "references/images/pdp-gallery/4.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/hero-pdp webp/4.webp",
+    "role": "pdp-gallery",
+    "use": "Selected gallery style/pose reference; user requested nose and logo corrections, so not sole anatomy authority.",
+    "sha256": "2296be80cd95f69db44c292d8b4b7830675d9e81a82d0eb0543beeb2aa753b32"
+  },
+  {
+    "path": "references/images/pdp-gallery/5.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/hero-pdp webp/5.webp",
+    "role": "pdp-gallery",
+    "use": "Selected gallery style/pose reference; user requested nose and logo corrections, so not sole anatomy authority.",
+    "sha256": "8d1968484bc4e50466b4f3f07294d6d9531e56ba358b6103dde50aab9f13172c"
+  },
+  {
+    "path": "references/images/lifestyle/01-duo-hero.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/ home webp/01-duo-hero.webp",
+    "role": "lifestyle",
+    "use": "Supplied warm lifestyle/home references. Email uses lifestyle, not PDP gallery.",
+    "sha256": "73016e4c1bb147a53ce8fa792cd019acbd916d2b78931ac5c363bf956fe584fc"
+  },
+  {
+    "path": "references/images/lifestyle/01-female-breathing-light.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/ home webp/01-female-breathing-light.webp",
+    "role": "lifestyle",
+    "use": "Supplied warm lifestyle/home references. Email uses lifestyle, not PDP gallery.",
+    "sha256": "c12862887f952dc303c131acdce8d24dcd50c4b289138745694138eacdd45a56"
+  },
+  {
+    "path": "references/images/lifestyle/02-female-soft-against-skin.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/ home webp/02-female-soft-against-skin.webp",
+    "role": "lifestyle",
+    "use": "Supplied warm lifestyle/home references. Email uses lifestyle, not PDP gallery.",
+    "sha256": "06713790ad2551862c136acde27898d807ff689d9ee1aba1a64283f84c00debe"
+  },
+  {
+    "path": "references/images/lifestyle/02_深灰男模特服帖参考.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/ home webp/02_深灰男模特服帖参考.webp",
+    "role": "lifestyle",
+    "use": "Supplied warm lifestyle/home references. Email uses lifestyle, not PDP gallery.",
+    "sha256": "bb3a40346141647be6ee60407b17ca199b7b00bc3ca16a6f06bc0c1246a8ab57"
+  },
+  {
+    "path": "references/images/lifestyle/final cta.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/ home webp/final cta.webp",
+    "role": "lifestyle",
+    "use": "Supplied warm lifestyle/home references. Email uses lifestyle, not PDP gallery.",
+    "sha256": "f83390ba521eb169db2e9773da3898653dae48a34de990b32b149f2190c0ddc4"
+  },
+  {
+    "path": "references/images/product-shots/2x apricor.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/2x apricor.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "8e8b1f4afb3554afe99a74dcdade15459c759db6aa5c5ff2956609beb1098b6e"
+  },
+  {
+    "path": "references/images/product-shots/2x apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/2x apricot.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "d7faeb3864130c71ddc2b534c233a6d81cd60130e183d222fe112f57f5d85baf"
+  },
+  {
+    "path": "references/images/product-shots/3x apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/3x apricot.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "97a195db0758647daadf0428aa736dea8b7dbd5059710161c3737a8d1e71a54a"
+  },
+  {
+    "path": "references/images/product-shots/3x black.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/3x black.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "84916d209c190baaf98c095d834434475de61de50fe9f4df63a33236c37a848a"
+  },
+  {
+    "path": "references/images/product-shots/apricot, 2x black.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/apricot, 2x black.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "01d1de25c0ce129886e941d41445a0dba05f1048df769191a304c7990830976f"
+  },
+  {
+    "path": "references/images/product-shots/apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/apricot.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "b632a5d61713df7dcb23150fe9e4854d95f80a156c0e7cf566a9deaa8d16337b"
+  },
+  {
+    "path": "references/images/product-shots/black 2x apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/black 2x apricot.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "f510583ea52f158b0da6dcb204c011e4a8c677d213d13365c2802015d38bb44f"
+  },
+  {
+    "path": "references/images/product-shots/black.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/black.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "3dd287fd302262eef0a0be7481633c018010aa67b5ae45c0def3c3cbc410ce9c"
+  },
+  {
+    "path": "references/images/product-shots/blakck, apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/product thumbnail webp/blakck, apricot.webp",
+    "role": "product-shots",
+    "use": "Selected product-only palette and bundle arrangement; confirm visible mask count.",
+    "sha256": "cd282080fbc894b0dd04bd03f95e8c26f3ae6481bc28da73165ca8042bcb9b37"
+  },
+  {
+    "path": "references/images/features/5 spandex stretch.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/5 spandex stretch.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "04be421eb259eb81b9311bf3e02730ba99404622edcc01bf2657b254705a9e7d"
+  },
+  {
+    "path": "references/images/features/99 blackout.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/99 blackout.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "90af09e79c27ee684d15f31a7917d783f911716bccf188bdcf57a116d1a937e0"
+  },
+  {
+    "path": "references/images/features/About 44 grams.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/About 44 grams.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "585a5c048d5500c55799b30db17c0bf016dafffd7ea08ba52a21b675082f8280"
+  },
+  {
+    "path": "references/images/features/Shaped nose panel.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/Shaped nose panel.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "d04e740798053e2f1b6c7b80deff9ae860b37cf2488c4f13e4ee7698036fd8f4"
+  },
+  {
+    "path": "references/images/features/Silent closure.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/Silent closure.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "7afbd69f8ad14fe2a9200c76bce2b83e98e25b9bca27ec059c6ee7e45e9b7084"
+  },
+  {
+    "path": "references/images/features/Sleep anywhere.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/Sleep anywhere.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "3f7c329d6e2a87d00abfc42bc67e093ee73bb122d534f2d4b572093ec0b69005"
+  },
+  {
+    "path": "references/images/features/Soft cotton.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/usp webp/Soft cotton.webp",
+    "role": "features",
+    "use": "Selected feature imagery; physical correctness still governed by product detail and supplier.",
+    "sha256": "2757892ba78e026919a09a811865fbeef1a2e87420090cc62be72e9dcda416ff"
+  },
+  {
+    "path": "references/images/casual/apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/ugc webp/apricot.webp",
+    "role": "casual",
+    "use": "Synthetic casual-style references. Never label as actual customer evidence.",
+    "sha256": "fca1409c24e386c6620c0169073ff4227f30d615f27975156896ebc8ec8ffc9b"
+  },
+  {
+    "path": "references/images/casual/man wearing black.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/ugc webp/man wearing black.webp",
+    "role": "casual",
+    "use": "Synthetic casual-style references. Never label as actual customer evidence.",
+    "sha256": "f2191ab4cb4c4ba78b8f0a0aec774da6951d7fd8709de77ec6e2fda9708da0b1"
+  },
+  {
+    "path": "references/images/casual/women grabing apricot.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/ugc webp/women grabing apricot.webp",
+    "role": "casual",
+    "use": "Synthetic casual-style references. Never label as actual customer evidence.",
+    "sha256": "2a11ce254889e741170c68b09a133be8962c0c472f813b6a7209373bd9daeb2b"
+  },
+  {
+    "path": "references/images/avatars/baby.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/baby.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "e3376910e3cab26572914fd0f3080a0daa1bf3fbf14ede303710f535152a4c9e"
+  },
+  {
+    "path": "references/images/avatars/cart.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/cart.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "f12211ed982ad1a3b31e6dfa76601e1dfcd5844d4219063a41e6a71414b3680b"
+  },
+  {
+    "path": "references/images/avatars/city light.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/city light.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "b50a9344a30fd6656a73378a123cf1b5ebe709e402f91616b11795fb9fd63b28"
+  },
+  {
+    "path": "references/images/avatars/flight.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/flight.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "aa112fe77775b31c8a2c8ba13871cc1c2124428d33a236bac64f08f800e83f84"
+  },
+  {
+    "path": "references/images/avatars/night shift.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/night shift.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "ed8d296350813e42ebf56677917fedd985d5dc685e02d38ab46b802e4ec5263d"
+  },
+  {
+    "path": "references/images/avatars/partner light.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/partner light.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "e4aac8259455919848c4ad81d81cbb86acb6ebe89c77e3fb66e1301574af75a7"
+  },
+  {
+    "path": "references/images/avatars/small light.webp",
+    "source": "/Users/tsth/Coding/DOZZI1/data-for-brand/DOZZI-IMG/dozzi webp/pdp webp/avatar thumbnail webp/small light.webp",
+    "role": "avatars",
+    "use": "Relatable situation references; directory inclusion alone does not establish approval.",
+    "sha256": "84ad6f8cbf94c0c758ae855ad444f695bdd5838ddad449b19c260ccaa1d6e4b9"
+  }
+]
